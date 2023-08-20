@@ -1,0 +1,9 @@
+{
+	"compilerOptions": {
+		"module": "NodeNext",
+		"outDir": "./out",
+		"resolveJsonModule": true,
+		"strict": true,
+		"target": "ESNext"
+	}
+}
