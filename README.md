@@ -11,19 +11,25 @@ A TypeScript template created by DmmD GM.
 
 ## Installation
 
-1. Clone the project by running:
+1. Clone the project:
 
 ```bash
 git clone https://github.com/DmmDGM/template your-project/
 ```
 
-2. Change the remote origin url by running:
+2. Change your working directory to your project:
+
+```bash
+cd your-project/
+```
+
+3. Change the remote origin url:
 
 ```bash
 git remote set-url origin your-github-url
 ```
 
-3. Install necessary packages by running:
+4. Install necessary packages:
 
 ```bash
 npm install
@@ -40,6 +46,10 @@ npm install
 -   `scripts/build`
 
 Formats and statically analyzes your TypeScript files in the `src/` directory before compiling them into JavaScript files.
+
+-   `scripts/format`
+
+Formats and statically analyzes your entire project, which includes non-TypeScript files such as `package.json` or `README.md`.
 
 -   `scripts/publish <message>`
 
