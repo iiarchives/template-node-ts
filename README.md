@@ -51,6 +51,10 @@ Formats and statically analyzes your TypeScript files in the `src/` directory be
 
 Formats and statically analyzes your entire project, which includes non-TypeScript files such as `package.json` or `README.md`.
 
+-   `scripts/install`
+
+Installs necessary npm packages and formats the project automatically.
+
 -   `scripts/publish <message>`
 
 Publishes your code to Github with the message attached.
