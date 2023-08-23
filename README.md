@@ -11,35 +11,35 @@ A TypeScript template created by DmmD GM.
 
 ## Installation
 
-1. Clone the project:
+1. Fork the project.
+
+2. Clone the forked project:
 
 ```bash
-git clone https://github.com/DmmDGM/template your-project/
+git clone your-forked-repository-url your-project/
 ```
 
-2. Change your working directory to your project:
+3. Change your working directory to your project:
 
 ```bash
 cd your-project/
 ```
 
-3. Change the remote origin url:
+4. Set up your project:
 
 ```bash
-git remote set-url origin your-github-url
-```
+# Windows:
+./scripts/install.ps1
 
-4. Install necessary packages:
-
-```bash
-npm install
+# Linux / MacOS:
+./scripts/install.sh
 ```
 
 ## Tools
 
--   [Eslint](https://eslint.org/)
--   [Prettier](https://prettier.io/)
--   [TypeScript](https://www.typescriptlang.org/)
+- [Eslint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 ## Scripts
 
@@ -51,10 +51,10 @@ Formats and statically analyzes your TypeScript files in the `src/` directory be
 
 Formats and statically analyzes your entire project, which includes non-TypeScript files such as `package.json` or `README.md`.
 
--   `scripts/install`
-
-Installs necessary npm packages and formats the project automatically.
-
 -   `scripts/publish <message>`
 
 Publishes your code to Github with the message attached.
+
+-   `scripts/setup`
+
+Installs necessary npm packages and formats the project automatically.
