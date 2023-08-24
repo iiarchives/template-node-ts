@@ -7,7 +7,7 @@ A TypeScript template created by DmmD GM.
 ## Prerequisites
 
 -   [Git](https://git-scm.com/download)
--   [Node.js](https://nodejs.org/en/download)
+-   [Node.js](https://nodejs.org/en/download) 
 
 ## Installation
 
