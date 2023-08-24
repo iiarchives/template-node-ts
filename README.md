@@ -29,17 +29,17 @@ cd your-project/
 
 ```bash
 # Windows:
-./scripts/install.ps1
+./scripts/setup.ps1
 
 # Linux / MacOS:
-./scripts/install.sh
+./scripts/setup.sh
 ```
 
 ## Tools
 
-- [Eslint](https://eslint.org/)
-- [Prettier](https://prettier.io/)
-- [TypeScript](https://www.typescriptlang.org/)
+-   [Eslint](https://eslint.org/)
+-   [Prettier](https://prettier.io/)
+-   [TypeScript](https://www.typescriptlang.org/)
 
 ## Scripts
 
