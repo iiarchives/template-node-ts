@@ -1,3 +1,3 @@
 #!/bin/bash
 npm install
-./scripts/format.ps1
+./scripts/format.sh

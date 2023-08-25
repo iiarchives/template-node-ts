@@ -7,19 +7,19 @@ A TypeScript template created by DmmD GM.
 ## Prerequisites
 
 -   [Git](https://git-scm.com/download)
--   [Node.js](https://nodejs.org/en/download) 
+-   [Node.js](https://nodejs.org/en/download)
 
 ## Installation
 
-1. Fork the project.
+1. Create a new repository from this template.
 
-2. Clone the forked project:
+2. Clone the new repository to your desktop:
 
 ```bash
-git clone your-forked-repository-url your-project/
+git clone your-repository-url your-project/
 ```
 
-3. Change your working directory to your project:
+3. Change your current working directory to your project:
 
 ```bash
 cd your-project/
@@ -28,10 +28,6 @@ cd your-project/
 4. Set up your project:
 
 ```bash
-# Windows:
-./scripts/setup.ps1
-
-# Linux / MacOS:
 ./scripts/setup.sh
 ```
 
