@@ -7,7 +7,41 @@ A TypeScript template created by DmmD GM.
 ## Prerequisites
 
 -   [Git](https://git-scm.com/download)
+
+```bash
+# Verification
+git -v
+```
+
 -   [Node.js](https://nodejs.org/en/download)
+
+
+```bash
+# Verification
+node -v
+```
+
+-   [Prettier](https://prettier.io/)
+
+```bash
+# Installation
+npm install -g prettier
+sudo npm install -g prettier
+
+# Verification
+prettier -v
+```
+
+-   [TypeScript](https://www.typescriptlang.org/)
+
+```bash
+# Installation
+npm install -g typescript
+sudo npm install -g typescript
+
+# Verification
+tsc -v
+```
 
 ## Installation
 
@@ -31,9 +65,11 @@ cd your-project/
 ./scripts/setup.sh
 ```
 
-## Tools
+## Additional Resources
 
 -   [Eslint](https://eslint.org/)
+-   [Git](https://git-scm.com/download)
+-   [Node.js](https://nodejs.org/en/download)
 -   [Prettier](https://prettier.io/)
 -   [TypeScript](https://www.typescriptlang.org/)
 
