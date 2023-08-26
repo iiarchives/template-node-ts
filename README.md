@@ -15,7 +15,6 @@ git -v
 
 -   [Node.js](https://nodejs.org/en/download)
 
-
 ```bash
 # Verification
 node -v
@@ -45,9 +44,8 @@ tsc -v
 
 ## Visual Studio Code
 
-- [Eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-
+-   [Eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+-   [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 ## Installation
 
