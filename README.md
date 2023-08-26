@@ -43,6 +43,12 @@ sudo npm install -g typescript
 tsc -v
 ```
 
+## Visual Studio Code
+
+- [Eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
+
 ## Installation
 
 1. Create a new repository from this template.
