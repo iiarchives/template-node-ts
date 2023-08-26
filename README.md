@@ -81,18 +81,18 @@ cd your-project/
 
 ## Scripts
 
--   `scripts/build`
+-   `scripts/build.sh`
 
 Formats and statically analyzes your TypeScript files in the `src/` directory before compiling them into JavaScript files.
 
--   `scripts/format`
+-   `scripts/format.sh`
 
 Formats and statically analyzes your entire project, which includes non-TypeScript files such as `package.json` or `README.md`.
 
--   `scripts/publish <message>`
+-   `scripts/publish.sh <message>`
 
 Publishes your code to Github with the message attached.
 
--   `scripts/setup`
+-   `scripts/setup.sh`
 
 Installs necessary npm packages and formats the project automatically.
